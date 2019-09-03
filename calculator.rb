@@ -1,4 +1,4 @@
-describe "./calculator.rb" do
+describe "../calculator.rb" do
 
   it "contains a local variable called first_number that is assigned to a number" do
     first_number = 1
